@@ -1,0 +1,33 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgba(238, 223, 233, 0.952);
+}
+
+.add {
+    background-color: black;
+    color: white;
+}
+
+.delall {
+    background-color: black;
+    color: white;
+}
+
+.butn1 {
+    border: none;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    margin: 5px;
+}
+
+.butn2 {
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(11, 51, 11);
+    color: white;
+    margin-left : 5px;
+}
